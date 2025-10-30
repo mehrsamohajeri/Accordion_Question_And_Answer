@@ -4,7 +4,7 @@
 
 https://github.com/Mehrsa-Mohajeri-Developer/Accordion_Question_And_Answer/assets/145048780/abd7bc70-253d-46e1-a20a-bb6dd0eb38ea
 
-- 🔗 [Demo Project](https://mehrsa-mohajeri-developer.github.io/Accordion_Question_And_Answer/)
+- 🔗 [Demo Project](https://mehrsamohajeri.github.io/Accordion_Question_And_Answer/)
   
 - 👩🏻‍💻 Developed by Mehrsa Mohajeri
 
